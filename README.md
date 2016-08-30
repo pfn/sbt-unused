@@ -4,7 +4,7 @@ An SBT plugin to let you know when you mess up
 
 ## Usage
 
-`addSbtPlugin("com.hanhuy.sbt" % "sbt-unused" % "0.1")`
+`addSbtPlugin("com.hanhuy.sbt" % "sbt-unused" % "0.2")`
 
 ## Why?
 

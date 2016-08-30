@@ -4,12 +4,12 @@ name := "sbt-unused"
 
 organization := "com.hanhuy.sbt"
 
-version := "0.1"
+version := "0.2"
 
 scalacOptions ++= Seq("-deprecation","-Xlint","-feature")
 
 libraryDependencies ++=
-  "com.hanhuy.sbt" %% "bintray-update-checker" % "0.1" ::
+  "com.hanhuy.sbt" %% "bintray-update-checker" % "0.2" ::
   Nil
 
 sbtPlugin := true
